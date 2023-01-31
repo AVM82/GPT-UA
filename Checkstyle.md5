@@ -9,4 +9,5 @@ IntelliJ IDEA https://github.com/google/styleguide/blob/gh-pages/intellij-java-g
 5. Відкрити файл target/site/scheckstyle.html це місце, де можна побачити усі помилки.
 6. Виправити всі зауваження плагіна, повторити 3-5 білд повинен проходити без проблем.
 
-Створивши pull-request переконайся на вкладці Checks (на Github) що всі перевірки пройшли успішно
+Створивши pull-request переконайся на вкладці Checks (на Github)
+що всі перевірки пройшли успішно
